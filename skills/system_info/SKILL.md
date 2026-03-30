@@ -1,0 +1,21 @@
+---
+name: system_info
+description: Get operating system and shell information. Use when the user asks about system details, OS version, shell type, or system configuration. Examples: "what's my OS", "show system info", "what shell am I using", "get OS details".
+---
+
+# System Info
+
+A skill for retrieving operating system and shell information.
+
+## Usage
+
+Run the bundled Python script:
+
+```bash
+python <skill-dir>/scripts/system_info.py
+```
+
+## Output
+
+- **OS Information**: Platform, hostname, version, architecture
+- **Shell Information**: Current shell, path, version
