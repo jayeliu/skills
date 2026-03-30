@@ -12,7 +12,11 @@ A skill for retrieving operating system and shell information.
 Run the bundled Python script:
 
 ```bash
-python <skill-dir>/scripts/system_info.py
+# macOS/Linux
+python3 <skill-dir>/scripts/system_info.py
+
+# Windows
+python <skill-dir>\scripts\system_info.py
 ```
 
 ## Output
