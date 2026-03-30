@@ -1,6 +1,6 @@
 ---
 name: system_info
-description: Get operating system and shell information. Use when the user asks about system details, OS version, shell type, or system configuration. Examples: "what's my OS", "show system info", "what shell am I using", "get OS details".
+description: "Get operating system and shell information. Use when the user asks about system details, OS version, shell type, or system configuration."
 ---
 
 # System Info
