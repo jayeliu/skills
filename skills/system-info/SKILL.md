@@ -1,5 +1,5 @@
 ---
-name: system_info
+name: system-info
 description: "Get operating system and shell information. Use when the user asks about system details, OS version, shell type, or system configuration."
 ---
 
