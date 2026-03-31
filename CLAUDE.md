@@ -94,12 +94,16 @@ head -n 10 skills/<skill_name>/SKILL.md
 
 ## 现有技能
 
-### system_info
+### system-info
 
-- **位置**: `skills/system_info/`
+- **位置**: `skills/system-info/`
 - **功能**: 获取操作系统和 Shell 信息
 - **触发场景**: 用户询问系统详情、OS 版本、Shell 类型或系统配置
 - **脚本**: `scripts/system_info.py` - 跨平台支持 Windows/Linux/macOS
+
+## 相关文档
+
+- [README.md](README.md) - 项目说明和快速入门指南
 
 ## 开发新技能
 
